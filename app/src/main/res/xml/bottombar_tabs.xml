@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs   >
+
+    <tab
+        id="@+id/tab_contact"
+        icon="@drawable/ic_action_touxiang"
+        title="游戏"
+        barColorWhenSelected="#737373"
+        />
+    <tab
+        id="@+id/tab_game"
+        icon="@drawable/ic_action_game"
+        title="妹子"
+        barColorWhenSelected="#1b9744"
+        />
+    <tab
+        id="@+id/tab_music"
+        icon="@drawable/ic_action_music"
+        title="音乐"
+        barColorWhenSelected="#1a2ede"
+        />
+</tabs>
